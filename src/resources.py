@@ -1,1 +1,1 @@
-print("Now we need some")
+print("Now we need some resources")
